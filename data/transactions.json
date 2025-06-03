@@ -10,5 +10,287 @@
     "amount": 30000,
     "location": "Jeddah",
     "timestamp": "2025-06-02T09:00:00Z"
+  },
+  {
+    "customer_name": "سارة أحمد",
+    "amount": 72000,
+    "location": "Dammam",
+    "timestamp": "2025-06-02T10:30:00Z"
+  },
+  {
+    "customer_name": "عبدالله صالح",
+    "amount": 12500,
+    "location": "Mecca",
+    "timestamp": "2025-06-01T08:15:00Z"
+  },
+  {
+    "customer_name": "ليلى ناصر",
+    "amount": 83000,
+    "location": "Riyadh",
+    "timestamp": "2025-06-03T14:00:00Z"
+  },
+  {
+    "customer_name": "Khalid Ali",
+    "amount": 9500,
+    "location": "Jeddah",
+    "timestamp": "2025-06-01T16:45:00Z"
+  },
+  {
+    "customer_name": "نورة عبدالله",
+    "amount": 43000,
+    "location": "Tabuk",
+    "timestamp": "2025-06-01T11:00:00Z"
+  },
+  {
+    "customer_name": "Huda Saeed",
+    "amount": 35000,
+    "location": "Dammam",
+    "timestamp": "2025-06-02T18:00:00Z"
+  },
+  {
+    "customer_name": "Yousef",
+    "amount": 125000,
+    "location": "Abha",
+    "timestamp": "2025-06-03T09:30:00Z"
+  },
+  {
+    "customer_name": "Fatimah",
+    "amount": 15000,
+    "location": "Mecca",
+    "timestamp": "2025-06-01T19:00:00Z"
+  },
+  {
+    "customer_name": "Ali Ibrahim",
+    "amount": 78000,
+    "location": "Riyadh",
+    "timestamp": "2025-06-03T13:45:00Z"
+  },
+  {
+    "customer_name": "مها خالد",
+    "amount": 99000,
+    "location": "Jazan",
+    "timestamp": "2025-06-02T20:30:00Z"
+  },
+  {
+    "customer_name": "Salem",
+    "amount": 42000,
+    "location": "Najran",
+    "timestamp": "2025-06-02T06:00:00Z"
+  },
+  {
+    "customer_name": "Abdulrahman",
+    "amount": 27000,
+    "location": "Jeddah",
+    "timestamp": "2025-06-03T17:30:00Z"
+  },
+  {
+    "customer_name": "Lama",
+    "amount": 13000,
+    "location": "Taif",
+    "timestamp": "2025-06-01T10:00:00Z"
+  },
+  {
+    "customer_name": "Nouf",
+    "amount": 62000,
+    "location": "Al Khobar",
+    "timestamp": "2025-06-02T15:30:00Z"
+  },
+  {
+    "customer_name": "Ibrahim",
+    "amount": 21000,
+    "location": "Riyadh",
+    "timestamp": "2025-06-01T12:30:00Z"
+  },
+  {
+    "customer_name": "Reem",
+    "amount": 37000,
+    "location": "Jeddah",
+    "timestamp": "2025-06-03T08:30:00Z"
+  },
+  {
+    "customer_name": "Ahmed",
+    "amount": 96000,
+    "location": "Hail",
+    "timestamp": "2025-06-02T07:00:00Z"
+  },
+  {
+    "customer_name": "Alya",
+    "amount": 5500,
+    "location": "Buraidah",
+    "timestamp": "2025-06-01T13:45:00Z"
+  },
+  {
+    "customer_name": "Omar",
+    "amount": 20000,
+    "location": "Riyadh",
+    "timestamp": "2025-06-02T11:00:00Z"
+  },
+  {
+    "customer_name": "Nada",
+    "amount": 32000,
+    "location": "Dammam",
+    "timestamp": "2025-06-03T12:30:00Z"
+  },
+  {
+    "customer_name": "Majid",
+    "amount": 47000,
+    "location": "Jeddah",
+    "timestamp": "2025-06-01T09:15:00Z"
+  },
+  {
+    "customer_name": "Shaikha",
+    "amount": 88000,
+    "location": "Tabuk",
+    "timestamp": "2025-06-03T14:00:00Z"
+  },
+  {
+    "customer_name": "Ziyad",
+    "amount": 19500,
+    "location": "Riyadh",
+    "timestamp": "2025-06-01T15:30:00Z"
+  },
+  {
+    "customer_name": "Layla",
+    "amount": 34000,
+    "location": "Hail",
+    "timestamp": "2025-06-02T19:30:00Z"
+  },
+  {
+    "customer_name": "Turki",
+    "amount": 26000,
+    "location": "Mecca",
+    "timestamp": "2025-06-01T17:00:00Z"
+  },
+  {
+    "customer_name": "Rawan",
+    "amount": 18000,
+    "location": "Jazan",
+    "timestamp": "2025-06-02T16:00:00Z"
+  },
+  {
+    "customer_name": "Badr",
+    "amount": 51000,
+    "location": "Abha",
+    "timestamp": "2025-06-03T10:45:00Z"
+  },
+  {
+    "customer_name": "Asma",
+    "amount": 39000,
+    "location": "Taif",
+    "timestamp": "2025-06-02T13:15:00Z"
+  },
+  {
+    "customer_name": "Zainab",
+    "amount": 64000,
+    "location": "Riyadh",
+    "timestamp": "2025-06-01T08:00:00Z"
+  },
+  {
+    "customer_name": "Hamad",
+    "amount": 8000,
+    "location": "Najran",
+    "timestamp": "2025-06-03T11:00:00Z"
+  },
+  {
+    "customer_name": "Nayef",
+    "amount": 74000,
+    "location": "Buraidah",
+    "timestamp": "2025-06-01T20:00:00Z"
+  },
+  {
+    "customer_name": "Amani",
+    "amount": 86000,
+    "location": "Al Khobar",
+    "timestamp": "2025-06-03T09:00:00Z"
+  },
+  {
+    "customer_name": "Saad",
+    "amount": 29000,
+    "location": "Jeddah",
+    "timestamp": "2025-06-02T10:00:00Z"
+  },
+  {
+    "customer_name": "Rana",
+    "amount": 58000,
+    "location": "Dammam",
+    "timestamp": "2025-06-03T13:30:00Z"
+  },
+  {
+    "customer_name": "Amal",
+    "amount": 31000,
+    "location": "Riyadh",
+    "timestamp": "2025-06-01T18:00:00Z"
+  },
+  {
+    "customer_name": "Nasser",
+    "amount": 17000,
+    "location": "Tabuk",
+    "timestamp": "2025-06-02T21:00:00Z"
+  },
+  {
+    "customer_name": "Basim",
+    "amount": 24000,
+    "location": "Jazan",
+    "timestamp": "2025-06-03T07:00:00Z"
+  },
+  {
+    "customer_name": "Mona",
+    "amount": 45000,
+    "location": "Mecca",
+    "timestamp": "2025-06-01T22:00:00Z"
+  },
+  {
+    "customer_name": "Nawaf",
+    "amount": 38000,
+    "location": "Taif",
+    "timestamp": "2025-06-02T17:00:00Z"
+  },
+  {
+    "customer_name": "Sara",
+    "amount": 93000,
+    "location": "Abha",
+    "timestamp": "2025-06-01T07:45:00Z"
+  },
+  {
+    "customer_name": "Thamer",
+    "amount": 29000,
+    "location": "Riyadh",
+    "timestamp": "2025-06-03T15:00:00Z"
+  },
+  {
+    "customer_name": "Jawaher",
+    "amount": 67000,
+    "location": "Jeddah",
+    "timestamp": "2025-06-02T14:30:00Z"
+  },
+  {
+    "customer_name": "Hisham",
+    "amount": 15500,
+    "location": "Dammam",
+    "timestamp": "2025-06-03T16:30:00Z"
+  },
+  {
+    "customer_name": "Areej",
+    "amount": 49000,
+    "location": "Hail",
+    "timestamp": "2025-06-01T16:00:00Z"
+  },
+  {
+    "customer_name": "Rashed",
+    "amount": 81000,
+    "location": "Al Khobar",
+    "timestamp": "2025-06-02T23:00:00Z"
+  },
+  {
+    "customer_name": "Farah",
+    "amount": 56000,
+    "location": "Tabuk",
+    "timestamp": "2025-06-01T12:00:00Z"
+  },
+  {
+    "customer_name": "Khalil",
+    "amount": 37000,
+    "location": "Buraidah",
+    "timestamp": "2025-06-02T08:30:00Z"
   }
 ]
